@@ -1,4 +1,4 @@
-package com.yuanj.musicapp
+package com.feichai.app.fcFlutter
 
 import io.flutter.embedding.android.FlutterActivity
 

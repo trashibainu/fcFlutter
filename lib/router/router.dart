@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:musicapp/components/mine.dart';
-import 'package:musicapp/components/hall.dart';
-import 'package:musicapp/components/profile.dart';
-import 'package:musicapp/components/other.dart';
-import 'package:musicapp/components/music/musicPlayer.dart';
-import 'package:musicapp/components/video/appPlayer.dart';
+import 'package:fcFlutter/components/mine.dart';
+import 'package:fcFlutter/components/hall.dart';
+import 'package:fcFlutter/components/profile.dart';
+import 'package:fcFlutter/components/other.dart';
+import 'package:fcFlutter/components/music/musicPlayer.dart';
+import 'package:fcFlutter/components/video/appPlayer.dart';
 final routers={
   '/':(context,{arguments})=>Mine(),
   '/mine':(context,{arguments})=>Mine(arguments:arguments),

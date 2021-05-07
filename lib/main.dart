@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:musicapp/components/hall.dart';
-import 'package:musicapp/components/mine.dart';
-import 'package:musicapp/components/square.dart';
-import 'package:musicapp/components/profile.dart';
-import 'package:musicapp/router/router.dart';
+import 'package:fcFlutter/components/hall.dart';
+import 'package:fcFlutter/components/mine.dart';
+import 'package:fcFlutter/components/square.dart';
+import 'package:fcFlutter/components/profile.dart';
+import 'package:fcFlutter/router/router.dart';
 void main() {
   runApp(MyApp());
 }
